@@ -6,6 +6,10 @@ Used dataset: [Letter Recognition Data Set](http://archive.ics.uci.edu/ml/datase
 
 [Dataset review](L1-dataset_review/letter-recognition-review.ipynb)
 
+## Lab 2 - Neural network example
+
+[Link to notebook](L1-dataset_review/letter-recognition-review.ipynb)
+
 ## Log
 
 * 03.11 - Обновлена информация о задаче и датасете
