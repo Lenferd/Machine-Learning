@@ -13,3 +13,4 @@ Used dataset: [Letter Recognition Data Set](http://archive.ics.uci.edu/ml/datase
 ## Log
 
 * 03.11 - Обновлена информация о задаче и датасете
+* 07(8).11 - Добавлены эксперименты с многослойным перцептроном Румельхарта
